@@ -1,0 +1,8 @@
+main: ca.koda3.spigot.chronometre.Main
+name: SyunServer_Chronometre
+version: 1.0 BETA 1
+authors: [koda3]
+description: クロノメータープラグイン
+commands:
+    ta:
+        description: クロノメーターを制御するコマンド
